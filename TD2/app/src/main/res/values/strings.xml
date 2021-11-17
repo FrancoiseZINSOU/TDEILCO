@@ -16,7 +16,7 @@
     <string name="soir">Soir</string>
     <string name="annuler">Annuler</string>
     <string name="valider">Valider</string>
-    <string-array name="etat_ciel">
+    <string-array name="etatCiel">
             <item>dégagé</item>
             <item>couvert</item>
             <item>pluvieux</item>
